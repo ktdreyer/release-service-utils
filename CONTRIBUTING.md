@@ -129,8 +129,8 @@ This project follows specific Python coding standards:
 
 ### File Organization
 
-- **Helpers**: Cross-cutting helpers go in `scripts/python/helpers/`
-- **Task scripts**: Task implementations go in `scripts/python/tasks/internal/` and `scripts/python/tasks/managed/`
+- **Helpers**: Cross-cutting helpers go in `src/python/helpers/`
+- **Task scripts**: Task implementations go in `src/python/tasks/internal/` and `src/python/tasks/managed/`
 - **Utilities**: General utilities go in `utils/`
 - **Templates**: Jinja2 templates go in `templates/`
 
